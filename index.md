@@ -1,13 +1,17 @@
 # Trustworthy, Reproducible Machine Learning with Tapis
 
 ## Schedule
-* 1.00 PM - Welcome
-* 1:05 PM - Introduction to Tapis (Joe)
-* 1:25 PM - Tapis Authentication (Gilbert) and Creating Tapis Systems (Anagha)
-* 2:00 PM - Break
-* 2:15 PM - Introduction to Natural Language Processing (Joe)
-* 2:30 PM - Running Tapis Sentiment Analysis Application and Jobs (Anagha)
-* 3:00 PM - Tapis Workflows, Pods and Tapis-UI (Christian)
+* 9.00 AM - Welcome
+* 9:05 AM - Introduction to Tapis and Tapis UI (Joe)
+* 10:00 AM - Creating Tapis Systems (Anagha) and Tapis Apps (Steve)
+* 10:30 AM - Running an ML Tapis application using Tapis jobs (hands-on) sentiment analysis (Anagha and Steve)
+* 11:00 AM - Introduction to Tapis Pods and deploy Pod instances (Lecture + hands-on) (Christian)
+* 11:45 AM - Introduction to Tapis Workflows (Lecture) (Nathan)
+* 12:30 PM - Break
+* 1:30 PM - Creating an ML workflow (hands-on) (Nathan)
+* 2:15 PM - 
+* 3:00 PM - Overview of more Tapis use cases and integrations (ICICLE camera traps, Astriagraph,UH)  (Joe and Sean)
+* 4:00 PM - Potential Tapis Use Cases (discussion with attendees) 
 * 4.00 PM - Tutorial wrap-up
 
 The resources you will be using today are provided by funding from the National Science Foundation:
@@ -15,8 +19,8 @@ The resources you will be using today are provided by funding from the National 
 ## Intro to Tapis 
 * [Intro to Tapis](./Intro_Tapis/01-intro-to-tapis.md)
 
-## Intro to Jupyter
-* [Introduction to Jupyter](./Jupyter-Notebook/intro-to-jupyter.md)
+## Jupyter Notebook
+* [Notebook](./Jupyter-Notebook/sentiment_analysis.ipynb)
  
 ## Tapis Systems
 * [Intro to Tapis Systems](./Tapis_systems/02-systems.md)
