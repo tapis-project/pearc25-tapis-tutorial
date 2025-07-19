@@ -20,7 +20,7 @@ The resources you will be using today are provided by funding from the National 
 * [Intro to Tapis](./Intro_Tapis/01-intro-to-tapis.md)
 
 ## Jupyter Notebook
-* [Notebook](./Jupyter-Notebook/sentiment_analysis.ipynb)
+* [Notebook](https://nbviewer.org/github/tapis-project/pearc25-tapis-tutorial/blob/main/Jupyter-Notebook/sentiment_analysis.ipynb)
  
 ## Tapis Systems
 * [Intro to Tapis Systems](./Tapis_systems/02-systems.md)
