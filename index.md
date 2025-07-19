@@ -9,10 +9,10 @@
 * 11:45 AM - Introduction to Tapis Workflows (Lecture) (Nathan)
 * 12:30 PM - Break
 * 1:30 PM - Creating an ML workflow (hands-on) (Nathan)
-* 2:15 PM - 
+* 2:15 PM - Advanced Topics 
 * 3:00 PM - Overview of more Tapis use cases and integrations (ICICLE camera traps, Astriagraph,UH)  (Joe and Sean)
 * 4:00 PM - Potential Tapis Use Cases (discussion with attendees) 
-* 4.00 PM - Tutorial wrap-up
+* 4.45 PM - Tutorial wrap-up
 
 The resources you will be using today are provided by funding from the National Science Foundation:
 
@@ -34,6 +34,3 @@ The resources you will be using today are provided by funding from the National 
 ## Tapis Jobs
 * [Intro to Tapis Jobs](./Tapis_apps_jobs/04-jobs.md)
 
-## Jupyter Notebook
-* [Notebook](./Jupyter-Notebook/sentiment_analysis.ipynb)
- 
