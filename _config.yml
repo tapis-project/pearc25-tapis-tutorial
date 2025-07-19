@@ -5,8 +5,6 @@ permalink: pretty
 nav:
 - Intro to Tapis:
   - Intro to Tapis: ./Intro_Tapis/01-intro-to-tapis
-- Jupyter Notebook:
-  - Notebook: ./Jupyter-Notebook/sentiment_analysis
 - Tapis Systems:
   - Intro to Tapis Systems: ./Tapis_systems/02-systems
 - Natural Language Processing:
