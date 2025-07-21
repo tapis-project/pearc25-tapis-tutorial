@@ -13,5 +13,7 @@ nav:
   - Intro to Apps: ./Tapis_apps_jobs/03-apps
 - Tapis Jobs:
   - Intro to Tapis Jobs: ./Tapis_apps_jobs/04-jobs
+- Tapis Pods:
+  - Intro to Tapis Pods: ./Tapis_pods/05-pods
 
 theme: jekyll-theme-minimal
