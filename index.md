@@ -31,10 +31,15 @@ The resources you will be using today are provided by funding from the National 
 * [NLP](./NLP/nlp.md)
 
 ## Tapis Apps
-  * [Intro to Apps](./Tapis_apps_jobs/03-apps.md)
+* [Intro to Apps](./Tapis_apps_jobs/03-apps.md)
   
 ## Tapis Jobs
 * [Intro to Tapis Jobs](./Tapis_apps_jobs/04-jobs.md)
 
 ## Tapis Pods
 * [Intro to Tapis Pods](./Tapis_pods/05-pods.md)
+
+## Documentation
+* [Full documentation and guides for using Tapis can be found here.](https://tapis.readthedocs.io/en/latest/​)
+* [Live Documentation of OpenAPI V3 Specs for all Tapis Services here.](https://tapis-project.github.io/live-docs)
+

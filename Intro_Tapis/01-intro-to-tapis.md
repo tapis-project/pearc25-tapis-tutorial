@@ -46,7 +46,6 @@ You don't have to do a lot of complex things to use Tapis.  If you just want som
 ​
 ### Full Tapis Documentation
 ​
-Full documentation and guides for using Tapis can be found here:
-https://tapis.readthedocs.io/en/latest/​
-
+[Full documentation and guides for using Tapis can be found here.](https://tapis.readthedocs.io/en/latest/​)
+[Live Documentation of OpenAPI V3 Specs for all Tapis Services here.](https://tapis-project.github.io/live-docs)
 
