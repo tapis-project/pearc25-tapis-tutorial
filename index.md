@@ -39,6 +39,9 @@ The resources you will be using today are provided by funding from the National 
 ## Tapis Pods
 * [Intro to Tapis Pods](./Tapis_pods/05-pods.md)
 
+## Tapis Workflows
+* [Ultralytics Model Page](https://docs.ultralytics.com/models/yolov9/#supported-tasks-and-modes)
+
 ## Documentation
 * [Full documentation and guides for using Tapis can be found here.](https://tapis.readthedocs.io/en/latest/​)
 * [Live Documentation of OpenAPI V3 Specs for all Tapis Services here.](https://tapis-project.github.io/live-docs)
